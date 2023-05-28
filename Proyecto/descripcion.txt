@@ -1,0 +1,2 @@
+Tienda con listas doblemente ligadas, se puede Insertar producto, Revisar inventario,Obtener por precio
+ Buscar producto por nombre, Eliminar producto
